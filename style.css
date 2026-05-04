@@ -308,10 +308,6 @@ footer p { color: white;
 }
 /* Updated styles - corrections and additions */
 
-/* Fix align-items value */
-.line-112 { align-items: center; }
-
-
 /* Add missing card color classes */
 .card-yellow { background-color: yellow; }
 .card-grey { background-color: grey; }
