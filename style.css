@@ -109,7 +109,7 @@ body.kontakt { background-image: url("images/kontakt.png"); }
 fieldset {
   display: flex; /* Zurück auf Block, damit Text nicht gequetscht wird */
   flex-direction: row;
-  align-items: last baseline;
+  align-items: baseline;
   width: 100%;
   border: 1px solid rgba(255, 255, 255, 0.3);
   background-color: rgba(41, 36, 29, 0.5); /* Dunkler, transparenter Hintergrund */
